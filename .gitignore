@@ -25,3 +25,9 @@ Desktop.ini
 # Temporary experiment scripts
 _*.py
 _*.R
+
+# Course-provided assessment materials
+FIT5197_Final_Assignment_Rubric.pdf
+*Rubric*.pdf
+*rubric*.pdf
+*评分标准*.pdf
