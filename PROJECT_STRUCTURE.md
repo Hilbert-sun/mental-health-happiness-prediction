@@ -29,4 +29,4 @@
 └── requirements-python.txt
 ```
 
-`FINAL_SUBMISSION_DO_NOT_EDIT/` is the frozen hand-in package and should not be edited after creation.
+`FINAL_SUBMISSION_DO_NOT_EDIT/` contains the final assessment artifacts and checksum manifest.

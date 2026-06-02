@@ -21,9 +21,9 @@ Classification: Predict Mental Health
 - Final `ClassificationPredictLabel.csv` uses the C22 ordinal-threshold blend
 - Second selected submission uses the C35 more-trees GBM ordinal model
 
-## Important Folders
+## Repository Contents
 
-- `FINAL_SUBMISSION_DO_NOT_EDIT/`: frozen final submission package. Do not modify.
+- `FINAL_SUBMISSION_DO_NOT_EDIT/`: final assessment artifacts with checksum manifest.
 - `candidate_submissions/`: selected Kaggle backup submissions only.
 - `r_libs/`: local R package library used for running the notebook on this machine.
 
@@ -34,7 +34,7 @@ Classification: Predict Mental Health
 - `RegressionPredictLabel.csv`
 - `ClassificationPredictLabel.csv`
 
-The same four files are copied into `FINAL_SUBMISSION_DO_NOT_EDIT/`, together with `SUBMISSION_MANIFEST.txt` containing SHA256 checksums.
+The same four files are also available in `FINAL_SUBMISSION_DO_NOT_EDIT/`, together with `SUBMISSION_MANIFEST.txt` containing SHA256 checksums.
 
 ## Data
 
