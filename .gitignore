@@ -1,0 +1,27 @@
+# Local package libraries and caches
+r_libs/
+__pycache__/
+catboost_info/
+.ipynb_checkpoints/
+
+# R local state
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary export/browser files
+*.tex
+*.html
+*_new.pdf
+.chrome-print-profile/
+.edge-print-profile/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Temporary experiment scripts
+_*.py
+_*.R
