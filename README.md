@@ -23,27 +23,30 @@ Classification: Predict Mental Health
 
 ## Repository Contents
 
+- `analysis/`: assessment notebook and modelling workflow.
+- `data/`: regression and classification train/test datasets.
+- `reports/`: rendered final assessment PDF.
+- `submissions/final/`: final Kaggle prediction files.
+- `submissions/selected/`: selected Kaggle backup submissions.
 - `FINAL_SUBMISSION_DO_NOT_EDIT/`: final assessment artifacts with checksum manifest.
-- `candidate_submissions/`: selected Kaggle backup submissions only.
-- `r_libs/`: local R package library used for running the notebook on this machine.
 
 ## Final Files
 
-- `FIT5197_FinalAssessment.ipynb`
-- `FIT5197_FinalAssessment.pdf`
-- `RegressionPredictLabel.csv`
-- `ClassificationPredictLabel.csv`
+- `analysis/FIT5197_FinalAssessment.ipynb`
+- `reports/FIT5197_FinalAssessment.pdf`
+- `submissions/final/RegressionPredictLabel.csv`
+- `submissions/final/ClassificationPredictLabel.csv`
 
 The same four files are also available in `FINAL_SUBMISSION_DO_NOT_EDIT/`, together with `SUBMISSION_MANIFEST.txt` containing SHA256 checksums.
 
 ## Data
 
-The original assessment datasets are kept in the repository root:
+The original assessment datasets are kept in `data/`:
 
-- `regression_train.csv`
-- `regression_test.csv`
-- `classification_train.csv`
-- `classification_test.csv`
+- `data/regression_train.csv`
+- `data/regression_test.csv`
+- `data/classification_train.csv`
+- `data/classification_test.csv`
 
 ## Environment Notes
 
